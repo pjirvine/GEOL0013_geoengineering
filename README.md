@@ -24,3 +24,5 @@ conda install jupyter
 jupyter notebook
 
 # 5. Use the jupyter notebook navigator to navigate to the unzipped folder. You may need to move the folder to the folder that the jupyter notebook navigator has open.
+
+# 6. Open the "practical_notebook.ipynb" file with jupyter and start following the instructions there.
