@@ -10,12 +10,16 @@ https://drive.google.com/drive/folders/1qRdinBlaGQJAwaM5VpxM-A8w-Ithxrww?usp=sha
 
 # 2. Create and activate python environment
 conda create --name geo_practical
+
 conda activate geo_practical
 
 # 3. Install packages
 conda install matplotlib
+
 conda install basemap
+
 conda install netcdf4
+
 conda install jupyter
 
 # 4. open the jupyter notebook navigator with this command:
