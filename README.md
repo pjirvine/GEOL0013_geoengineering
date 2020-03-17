@@ -7,7 +7,7 @@ In this practical we will analyze the climate response to stratospheric aerosol 
 # 1. Open anaconda prompt. In windows search for anaconda prompt, In mac just open a regular command line.
 
 # 2. Create and activate python environment
-conda create --name geo_practical
+conda create --name geo_practical python=3.7
 
 conda activate geo_practical
 
